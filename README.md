@@ -65,8 +65,9 @@ Training, validatioin, Testing confusion Matrices
 ![](Images/t1_t3_r_c.PNG)
 
 Test Accuracy Validation Accuracy, F1
-![](Images/task2_vgg16_chart_e5.PNG)
-![](Images/task2_resnet18_chart_e5.PNG)
+![](Images/t1_v_chart.PNG)
+![](Images/t1_r_chart.PNG)
+
 
 For Epoch =10
 
@@ -74,9 +75,6 @@ For Epoch =10
 ![](Images/task%201-%20resnet18.PNG)
 
 
-
-![](Images/task1_rest_FC_only_loss.png)
-![](Images/task1_rest_FC_accuracy.png)
 
 
 
@@ -127,7 +125,7 @@ Training, validatioin, Testing confusion Matrices
 
 
 Test Accuracy Validation Accuracy, F1
-![](Images/t2_vgg16_chart_e5.PNG)
+![](Images/t2_v_chart.PNG)
 ![](Images/task2_resnet18_chart_e5.PNG)
 
 
