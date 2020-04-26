@@ -26,27 +26,47 @@ For Epoch = 5
 
 Task 1
 
-![](Images/t1_v_t1_l.PNG)
-![](Images/t1_v_t1_v.PNG)
+![](Images/t1_v_t1_l.png)
+![](Images/t1_v_t1_v.png)
 
 
-![](Images/t1_r_t1_l.PNG)
-![](Images/t1_r_t1_v.PNG)
+![](Images/t1_r_t1_l.png)
+![](Images/t1_r_t1_v.png)
+
+Training, validatioin, Testing confusion Matrices
+![](Images/t1_t1_v_c.PNG)
+![](Images/t1_t1_r_c.PNG)
 
 Task 2
 
-![](Images/t1_v_t2_l.PNG)
-![](Images/t1_v_t2_v.PNG)
+![](Images/t1_v_t2_l.png)
+![](Images/t1_v_t2_v.png)
 
 
-![](Images/t1_r_t2_l.PNG)
-![](Images/t1_r_t2_v.PNG)
+![](Images/t1_r_t2_l.png)
+![](Images/t1_r_t2_v.png)
+
+Training, validatioin, Testing confusion Matrices
+![](Images/t1_t2_v_c.PNG)
+![](Images/t1_t2_r_c.PNG)
 
 Task 3
 
-![](Images/t1_r_t3_l.PNG)
-![](Images/t1_r_t3_v.PNG)
 
+![](Images/t1_v_t3_l.png)
+![](Images/t1_v_t3_v.png)
+
+
+![](Images/t1_r_t3_l.png)
+![](Images/t1_r_t3_v.png)
+
+Training, validatioin, Testing confusion Matrices
+![](Images/t1_t3_v_c.PNG)
+![](Images/t1_t3_r_c.PNG)
+
+Test Accuracy Validation Accuracy, F1
+![](Images/task2_vgg16_chart_e5.PNG)
+![](Images/task2_resnet18_chart_e5.PNG)
 
 For Epoch =10
 
@@ -55,37 +75,73 @@ For Epoch =10
 
 
 
-![](Images/task1_rest_FC_only_loss.PNG)
-![](Images/task1_rest_FC_accuracy.PNG)
+![](Images/task1_rest_FC_only_loss.png)
+![](Images/task1_rest_FC_accuracy.png)
+
 
 
 
 __Task 2:__
 In task w we were required to freeze some and freeze none layer the layers of conv layers and replace pre-trained model FC layers with our designed FC layers. Multiple tests have been performed by varying their learning rate, batch size and the results are as follows:
 
-![](Images/task%202-%20vgg16.PNG)
-![](Images/task%202%20-%20resnet18.PNG)
 
 The loss and accuracy curve for Resent18 Entire model training are as follow
 
 For Epcoch = 5
 
 Task 1
-![](Images/t2_r_t1_l.PNG)
-![](Images/t2_r_t1_v.PNG)
+![](Images/t2_v_t1_l.png)
+![](Images/t2_v_t1_v.png)
+
+![](Images/t2_r_t1_l.png)
+![](Images/t2_r_t1_v.png)
+
+Training, validatioin, Testing confusion Matrices
+![](Images/t2_t1_v_c.PNG)
+![](Images/t2_t1_r_c.PNG)
+
 
 Task 2
-![](Images/t2_r_t2_l.PNG)
-![](Images/t2_r_t2_v.PNG)
+![](Images/t2_v_t2_l.png)
+![](Images/t2_v_t2_v.png)
+
+![](Images/t2_r_t2_l.png)
+![](Images/t2_r_t2_v.png)
+
+Training, validatioin, Testing confusion Matrices
+![](Images/t2_t2_v_c.PNG)
+![](Images/t2_t2_r_c.PNG)
+
 
 Task 3
-![](Images/t2_r_t3_l.PNG)
-![](Images/t2_r_t3_v.PNG)
+![](Images/t2_v_t3_l.png)
+![](Images/t2_v_t3_v.png)
+
+![](Images/t2_r_t3_l.png)
+![](Images/t2_r_t3_v.png)
+
+Training, validatioin, Testing confusion Matrices
+![](Images/t2_t3_v_c.PNG)
+![](Images/t2_t3_r_c.PNG)
+
+
+
+Test Accuracy Validation Accuracy, F1
+![](Images/t2_vgg16_chart_e5.PNG)
+![](Images/task2_resnet18_chart_e5.PNG)
+
 
 For Epoch =10
 
-![](Images/task2_rest18_entire_loss.PNG) 
-![](Images/task2_rest_entire_accuracy.PNG) 
+
+![](Images/task%202-%20vgg16.PNG)
+![](Images/task%202%20-%20resnet18.PNG)
+
+![](Images/task2_rest18_entire_loss.png) 
+![](Images/task2_rest_entire_accuracy.png) 
+
+
+Please find the trained model of these assgienment on this link __Weights__ [link](https://drive.google.com/drive/folders/1bm45h4AL1S0H5-w_cLYkVQ8YPoWYD1VO?usp=sharing)
 
 
 
