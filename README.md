@@ -143,3 +143,25 @@ Please find the trained model of these assgienment on this link __Weights__ [lin
 
 
 
+
+
+
+
+__PART 2__
+
+For this part of the assignment we were supposed to train our VGG16 and Resnet 18 models for Multilabel Classification. We had to do mulitple experiments for Vgg16 and Resnet18 using BCEWithLogitsLoss and Focal Loss functions. Different experiments were performed by varing learning rate, batch size, epochs etc and Vgg16 performed outclass with highest training Accuracy(97.53%) and validation Accuracy(95.97%).
+
+
+![](Images/b_v_t3_training_confusion.PNG)
+
+![](Images/b_v_t3_validation_matrix.PNG)
+
+![](Images/b_v_t3_loss.png)
+
+![](Images/b_v_t3_accuracy.png)
+
+
+You can find the data [here](https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing)
+
+
+Please find the Trained [Weights](https://drive.google.com/drive/folders/1uqHNmW48Pu7MbM7Yg2xsddOjy_I6ZT66?usp=sharing)
